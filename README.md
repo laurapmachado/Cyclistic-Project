@@ -10,52 +10,19 @@ This case study was presented as the Capstone Project in the Google Data Analyst
 6. Act
 
 
+**Business Task:** Search for differences in the two client types of the company - casual and members- in order to help the marketing deparment make casual clients change to an annual subscription and become members.
 
-### 1. ASK
+**Key Stakeholders:**The main stakeholders here are the director of marketing and my manager Lily Moreno, the rest of the marketing analytics team, and the Cyclistic executive team.
 
-**Business Task:** 
+**Conclusions**:
+1)The Casual users have leisure rides mostly on weekends and with longer ride lengths.
 
-**Key Stakeholders:**
+2)The Annual users have commute rides, during all week using with sortes rid lengths.
 
-### 2. Prepare
-
-**Collect data and store it appropriately** 
-
-**Identify how it's organized**
-
-**Determine the credibility of the data**
-
-### 3. Process
-
-**Check for data errors** 
-
-**Transform the data into the right type**
-
-**Document the cleaning process**
-
-**Choose your tools**
-
-### 4. Analyze
-
-**Aggregate your data so it’s useful and accessible**
-
-**Organize and format your data**
-
-**Perform calculations**
-
-**Identify trends and relationships**
-
-
-### 5. Share
-
-**Determine the best way to share your findings**
-
-**Create effective data visualizations**
-
-**Present your findings**
-
-
-### 6. Act
 
 **Top 3 recommendations based on analysis**
+
+1) Offer a weekend membership in order to motivate casual users towards a full annual membership. 
+2) Implement campaings in the summer period, when the number of casual rides is higher
+3) Since ride length for casual is considerably higher, the app could notify the riders that buying an annual membership could save them money on longer duration trips.
 
