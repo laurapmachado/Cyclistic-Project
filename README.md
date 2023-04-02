@@ -12,9 +12,10 @@ This case study was presented as the Capstone Project in the Google Data Analyst
 
 **Business Task:** Search for differences in the two client types of the company - casual and members- in order to help the marketing deparment make casual clients change to an annual subscription and become members.
 
-**Key Stakeholders:**The main stakeholders here are the director of marketing and my manager Lily Moreno, the rest of the marketing analytics team, and the Cyclistic executive team.
+**Key Stakeholders:** The main stakeholders here are the director of marketing and my manager Lily Moreno, the rest of the marketing analytics team, and the Cyclistic executive team.
 
 **Conclusions**:
+
 1)The Casual users have leisure rides mostly on weekends and with longer ride lengths.
 
 2)The Annual users have commute rides, during all week using with sortes rid lengths.
