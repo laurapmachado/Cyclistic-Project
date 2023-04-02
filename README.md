@@ -14,6 +14,10 @@ This case study was presented as the Capstone Project in the Google Data Analyst
 
 **Key Stakeholders:** The main stakeholders here are the director of marketing and my manager Lily Moreno, the rest of the marketing analytics team, and the Cyclistic executive team.
 
+Data source:
+
+https://divvy-tripdata.s3.amazonaws.com/index.html
+
 **Conclusions**:
 
 1)The Casual users have leisure rides mostly on weekends and with longer ride lengths.
