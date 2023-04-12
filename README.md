@@ -22,7 +22,7 @@ https://divvy-tripdata.s3.amazonaws.com/index.html
 
 1)The Casual users have leisure rides mostly on weekends and with longer ride lengths.
 
-2)The Annual users have commute rides, during all week using with sortes rid lengths.
+2)The Annual users have commute rides, during all week using with shorter ride lengths.
 
 
 **Top 3 recommendations based on analysis**
