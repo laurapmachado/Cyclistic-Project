@@ -21,6 +21,10 @@ You are a junior data analyst working in the marketing analyst team at Cyclistic
 
 https://divvy-tripdata.s3.amazonaws.com/index.html
 
+
+**Tableau Dashboard**:https://public.tableau.com/app/profile/laura.machado/viz/CyclisticDashboard_16790760877310/Painel2
+
+
 **Conclusions**:
 
 1)The Casual users have leisure rides mostly on weekends and with longer ride lengths.
