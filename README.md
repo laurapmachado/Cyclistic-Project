@@ -23,7 +23,7 @@ https://divvy-tripdata.s3.amazonaws.com/index.html
 
 
 **Tableau Dashboard**:
-https://public.tableau.com/app/profile/laura.machado/viz/CyclisticDashboard_16790760877310/Painel2
+ https://public.tableau.com/app/profile/laura.machado/viz/CyclisticDashboard_16790760877310/Painel2
 
 
 **Conclusions**:
