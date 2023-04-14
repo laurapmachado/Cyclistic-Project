@@ -10,7 +10,7 @@ This case study was presented as the Capstone Project in the Google Data Analyst
 6. Act
 
 
-**Business Task:** Search for differences in the two client types of the company - casual and members- in order to help the marketing deparment make casual clients change to an annual subscription and become members.
+**Business Task:** Search for differences in the two client types of the company Cyclistic - casual and members- in order to help the marketing deparment make casual clients change to an annual subscription and become members.
 
 **Key Stakeholders:** The main stakeholders here are the director of marketing and my manager Lily Moreno, the rest of the marketing analytics team, and the Cyclistic executive team.
 
